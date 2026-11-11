@@ -63,3 +63,7 @@ body {
     background-color: black;
     color: white;
 }
+
+li {
+    margin: 5px;
+}
