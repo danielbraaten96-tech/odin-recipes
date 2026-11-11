@@ -3,14 +3,25 @@ body {
     font-family: "Times New Roman" serif;
 }
 
+.hp-title {
+    background-color: black;
+    color: white;
+}
+
+.hp-second {
+    margin: 0;
+}
+
 .links-list {
-    margin: 10px 200px;
-    background-color: green;
+    margin: 0 200px;
+    background-color: black;
+    color: white;
     border: 1px solid black;
 }
 
 .links {
     margin: 0 auto;
-    background-color: red;
+    background-color: lightgrey;
     border: 1px solid black;
 }
+
