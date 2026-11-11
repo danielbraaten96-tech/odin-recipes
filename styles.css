@@ -25,3 +25,39 @@ body {
     border: 1px solid black;
 }
 
+.recipe-body {
+    width: 650px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.recipe-title {
+    background-color: black;
+    color: white;
+}
+
+.photo-cred {
+    font-size: 10px;
+}
+
+.ingredients-list {
+    width: fit-content;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.steps-list {
+    width: fit-content;
+    margin: 10px auto;
+    border: 1px solid black;
+}
+
+.ingredients-title {
+    background-color: black;
+    color: white;
+}
+
+.steps-title {
+    background-color: black;
+    color: white;
+}
